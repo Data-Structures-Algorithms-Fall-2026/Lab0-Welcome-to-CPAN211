@@ -108,7 +108,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
-| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
-| --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
-| 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
-| 1 | Fardamin, Setayesh | N01774232 | @Setayesh-amin | N01774232@humber.ca | ✅ | |
+| #   | Name                | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| --- | ------------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
+| 0   | Christin, Mugisha   | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A]      |
+| 1   | Setayesh , Fardamin | [N01774232]   | @Setayesh-amin  | N01774232@humber.ca           | ✅             | [N/A]      |
