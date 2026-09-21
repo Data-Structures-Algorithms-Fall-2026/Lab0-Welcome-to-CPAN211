@@ -42,10 +42,15 @@ git checkout -b firstname-lastname
 Edit the student roster table and add your information:
 
 1. Add your name in the same format as the first entry (Last Name, First Name)
+Londono Osorno, Katherin
 2. Fill in your Student ID
+N10008150
 3. Add your GitHub username (your @handle, e.g., @username)
+Katherin2804
 4. Add your Humber email (format: firstname.lastname@humber.ca or n01233456789@humber.ca)
+n10008150@humber.ca
 5. Mark Lab 0 as complete with ✅ or any other emoji :)
+👍
 6. Add your Group Name (Note: This is **optional**; you can leave it blank if you are not in a group yet)
 7. You can join groups through **Blackboard**. A sign-up link will be posted to let you join/form a group.
 8. The deadline for getting into groups is **Sunday, May 31st**!
