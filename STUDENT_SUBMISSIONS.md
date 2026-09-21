@@ -108,6 +108,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
-| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| 7 | Name Pietro, Cavenaghi| [N01753954]   | @zqvinny | Humber Email n01753954@humber.ca| [👑] Complete | [N/A] |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
