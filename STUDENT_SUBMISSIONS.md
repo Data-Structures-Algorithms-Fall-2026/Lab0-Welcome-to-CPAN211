@@ -112,3 +112,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
 | 1 | Galang, Kyle Aeron| [N01750770] | @magnumbot | n01750770@humber.ca | [🔥] Completed | [N/A]
+
