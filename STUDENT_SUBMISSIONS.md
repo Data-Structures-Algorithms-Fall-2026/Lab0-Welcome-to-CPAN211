@@ -108,6 +108,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
-| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| #   |Name: Joshua Seecharan|Student ID: n01691550| GitHub Username: Joshua06-byte | Humber Email: n01691550@humber.ca| Lab 0 Complete: ✅ | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
