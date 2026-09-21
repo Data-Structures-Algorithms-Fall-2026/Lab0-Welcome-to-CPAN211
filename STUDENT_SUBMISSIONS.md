@@ -111,3 +111,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
+| 1 | Singh,Rajbir| [N01760853] | @rj07-dev | [n01760853@humber.ca](mailto:n01760853@humber.ca) | [✅] Completed | [N/A] |
