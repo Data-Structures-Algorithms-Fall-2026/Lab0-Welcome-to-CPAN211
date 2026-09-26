@@ -111,3 +111,34 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
+| 1 | Joshua, Dangelo | [N01661738] | @n01661738 | joshua.dangelo@humber.ca | ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა  Completed | N/A |
+| 2 | Roha, Khan | [N01769862] | @roha3011 | rohak3011@gmail.com | Completed | [N/A] |
+| 3 | Taric, Said | [N01761991] | @munch123 | n01761991@humber.ca | [🔥] Completed | [N/A] |
+| 4 | Setayesh , Fardamin | [N01774232] | @Setayesh-amin | Setayesh.Fardamin@humber.ca | ✅ | [N/A] |
+| 5 | Alejandro, Vargas | [N01743516] | @josevargaz2627 | n01743516@humber.ca | [🔥] Completed | [N/A] |
+| 6 | Paul, Solomon | [N01759930] | @p4ulio | n01759930@humber.ca | [🔥] Completed | [N/A] |
+| 7 | Londono Osorno, Katherin | [N10008150] | @Katherin2804 | n10008150@humber.ca | 👍 Completed | [N/A] |
+| 8 | Galang, Kyle Aeron | [N01750770] | @magnumbot | n01750770@humber.ca | [🔥] Completed | [N/A] |
+| 9 | Gomes, Clement | [N10005987] | @6lement | n10005987@humber.ca | [✅] Completed | [N/A] |
+| 10 | Karima, habibulla | [n01766941] | @crystaaltostine | karimahabibulla@gmail.com | [🔥] Completed | [N/A] |
+| 11 | Tsurkan, Viktoria | [N01717546] | @vixtkan | n1717546@humber.ca | ✅ Completed | [N/A] |
+| 12 | Kaur, Sehajpreet | [N01772633] | @Sehaj24 | n01772633@humber.ca | [🔥] Completed | [N/A] |
+| 13 | Cavenaghi, Pietro | [N01753954] | @zqvinny | n01753954@humber.ca | [👑] Complete | [N/A] |
+| 14 | Samar, Chughtai | [N01759594] | @Sxmar1 | N01759594@humber.ca | [✅] Completed | [N/A] |
+| 15 | Deri, Oumaima | [N01781273] | @oumaimaderi | oumaima.deri@humber.ca | Lab 0 completed | [N/A] |
+| 16 | Vu, Huynh | [N01774092] | @Zuisme1603 | n01774092@humber.ca | [🔥] Completed | [N/A] |
+| 17 | Shuang, Liu | [N01759464] | @Alex11205 | n01759464@humber.ca | [✅] Completed | [N/A] |
+| 18 | Daniil, Vladimirov | [N01747728] | @sosonngh | n01747728@humber.ca | [🔥] Completed | [N/A] |
+| 19 | Clarke, Antwaun | [N01753964] | @Twaun18 | N01753964@humber.ca | ✅ Completed | [N/A] |
+| 20 | Joshua Seecharan | [N01691550] | @Joshua06-byte | n01691550@humber.ca | [✅] Completed | [N/A] |
+| 21 | Abram, Danella | [N01505801] | @DanElla801 | N01505801@humber.ca | [✅] Completed | [N/A] |
+| 22 | Christine, Manjares | [N10003527] | @MChristineeee | n10003527@humber.ca | [✅] Completed | [N/A] |
+| 23 | Jessica Pacella | [N01278536] | @JessPacella | n01278536@humber.ca | 🔥 | [N/A] |
+| 24 | Ayodeji, Emmanuel | [N10008677] | @KuzonJ | n10008677@humber.ca | [✅] Completed | [N/A] |
+| 25 | Esume, Ndoka Matthew | [N01754423] | @Matthewesumendoka | matthew.esume@student.humber.ca | [✅] Completed | [N/A] |
+| 26 | Singh,Rajbir | [N01760853] | @rj07-dev | n01760853@humber.ca | [✅] Completed | [N/A] |
+| 27 | Marco Patricio De Oliveira Pinto | [n01781317] | @PatricioMarco | n01781317@humber.ca | Lab 0 Completed | [N/A] |
+| 28 | Rehman, Saira | [N01395567] | @saira-labs | saira.rehman@humber.ca | [🔥] Completed | [N/A] |
+| 29 | Ashton, Cirone-Vokey | [N01778429] | @timezoney | n01778429@humber.ca | [🔥] Completed | [N/A] |
+| 30 | Ghuman, Prabhjot | [N01402141] | @Prabhjot069 | n01402141@humber.ca | ✅ | [N/A] |
+| 31 | Mark, Vu Nguyen | [N01705216] | @mxrkyuu | n01705216@humber.ca | Completed | [N/A] |
